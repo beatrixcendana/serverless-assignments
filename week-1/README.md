@@ -8,9 +8,9 @@ Currently, in order to un-redact TOP SECRET information in our documents, our ag
 ### 💡 Proposed Solution
 We need YOU, our expert in serverless functions, to build an endpoint that allows our agents to simply send the redacted document's content in a parameter named `redacted` and receive back a translated version that's easy to read.
 
-- [] 🕵🏽 should be replaced with `John`
-- [] 🕵🏻‍♀️ should be replaced with `Nora`
-- [] 🗻 should be replaced with `Waverly Valley Place`
+- [ ] 🕵🏽 should be replaced with `John`
+- [ ] 🕵🏻‍♀️ should be replaced with `Nora`
+- [ ] 🗻 should be replaced with `Waverly Valley Place`
 
 You can use the npm package [`emoji-translator`](https://www.npmjs.com/package/emoji-translator) for this mission. 🚀
 
