@@ -7,9 +7,9 @@ Currently, in order to redact TOP SECRET information in our documents, our agent
 ### Proposed Solution
 We need YOU, our expert in serverless functions, to build an endpoint that allows our agents to simply send the document's content in a parameter named `redact` and receive back a redacted version.
 
-- [] `John` should be replaced with 🕵🏽
-- [] `Nora` should be replaced with 🕵🏻‍♀️
-- [] `Waverly Valley Place` should be replaced with 🗻
+- [ ] `John` should be replaced with 🕵🏽
+- [ ] `Nora` should be replaced with 🕵🏻‍♀️
+- [ ] `Waverly Valley Place` should be replaced with 🗻
 
 You can use the npm package [`emoji-translator`](https://www.npmjs.com/package/emoji-translator) for this mission. 🚀
 
