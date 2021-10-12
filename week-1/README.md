@@ -15,7 +15,7 @@ We need YOU, our expert in serverless functions, to build an endpoint that allow
 You can use the npm package [`emoji-translator`](https://www.npmjs.com/package/emoji-translator) for this mission. 🚀
 
 #### 🚧 Test case:
-If our agents send `Mission #1: Operation Moji Town Steal. 🕵🏻‍♀️ and 🕵🏽 will conduct surveillance at 5:00 PM EST sharp in 🗻.` in a paramter of `redacted`, they should receive `Mission #1: Operation Moji Town Steal. Nora and John will conduct surveillance at 5:00 PM EST sharp in Waverly Valley Place.`
+If our agents send `Mission 1: Operation Moji Town Steal. 🕵🏻‍♀️ and 🕵🏽 will conduct surveillance at 5:00 PM EST sharp in 🗻.` in a paramter of `redacted`, they should receive `Mission 1: Operation Moji Town Steal. Nora and John will conduct surveillance at 5:00 PM EST sharp in Waverly Valley Place.`
 
 ![image](https://user-images.githubusercontent.com/69332964/136634136-a2a39fd8-1d3c-44b7-8fc8-2af36e335f85.png)
 
